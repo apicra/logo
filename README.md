@@ -1,7 +1,7 @@
 # logo
 The original apicra logo with sources
 
-![apicra_logo.png](apicra_logo.png)
+![apicra_logo.png](apicra-logo.png)
 
 ## TODO
 
